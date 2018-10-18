@@ -15,11 +15,12 @@ sudo apt-get install g++
 sudo apt-get install libopencv-dev
 ```
 ## Cmake the package
+``` sh
 cd ~/tutorial_VGU
 mkdir build
 cmake ../
 make
-
+```
 ## Running package
 cd ~/tutorial_VGU
 ./test_radon
