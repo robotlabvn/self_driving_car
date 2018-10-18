@@ -22,5 +22,7 @@ cmake ../
 make
 ```
 ## Running package
+```sh
 cd ~/tutorial_VGU
 ./test_radon
+```
