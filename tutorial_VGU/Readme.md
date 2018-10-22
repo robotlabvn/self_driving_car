@@ -30,3 +30,5 @@ make
 cd ~/tutorial_VGU
 ./test_radon
 ```
+## The result
+https://github.com/robotlabvn/self_driving_car/tree/master/tutorial_VGU/img
