@@ -14,6 +14,10 @@ sudo apt-get install g++
 ``` sh
 sudo apt-get install libopencv-dev
 ```
+4. install cmake 
+```sh
+sudo apt-get install cmake
+```
 ## Cmake the package
 ``` sh
 cd ~/tutorial_VGU
