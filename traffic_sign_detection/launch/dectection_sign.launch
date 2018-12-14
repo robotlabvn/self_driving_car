@@ -1,0 +1,9 @@
+<!--
+RobotLab VGU, 2018
+Author: Tri.B.M
+Display the image from Unity Simulation Environment of the FPT Digital Racer 
+-->
+<launch>
+    <!-- Node running-->
+    <node name = "detection_traffic_sign" pkg="traffic_sign_detection" type="detection" output="screen" args="_image_transport:=compressed"/>
+</launch>

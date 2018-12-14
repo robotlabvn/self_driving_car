@@ -1,0 +1,10 @@
+<!--
+RobotLab VGU, 2018
+Author: Tri.B.M
+Display the image from Unity Simulation Environment of the FPT Digital Racer 
+-->
+<launch>
+    <include file ="$(find rosbridge_server)/launch/rosbridge_websocket.launch"/>
+    <!-- Node running-->
+    <node name = "show_image" pkg="traffic_sign_detection" type="show_video.py" output="screen"/>
+</launch>
