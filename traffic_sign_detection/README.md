@@ -3,6 +3,9 @@
 2. Dowload the Dataset available on this link: https://www.kaggle.com/robotlabvn/trafficsigndetectiontrainimgs
 3. Copy the *Train_Imgs* folder to the directory: /catkin_ws/src/traffic_sign_detection/Train_Imgs
 4. Running the package
- ```cd ~/catkin_ws
+ ```
+ cd ~/catkin_ws
+ catkin_make
+ roslaunch traffic_sign_detection detection_sign.launch
 ```
 
