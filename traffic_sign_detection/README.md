@@ -13,7 +13,8 @@ cd ~/<car_simulattion folder>/
 ./test.x86_64
 ```
 And Fill information:
-#Name#: Team1      ws://127.0.0.1:9090
+
+**Name**: Team1      ws://127.0.0.1:9090
  ![alt text](https://github.com/robotlabvn/self_driving_car/blob/master/traffic_sign_detection/Image/Simulation_1.png)
 
 7. Running the package
