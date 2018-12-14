@@ -7,7 +7,7 @@
 cd ~/<car_simulattion folder>/
 ./test.x86_64
 ```
- ![alt text](https://github.com/robotlabvn/self_driving_car/blob/master/img/self_driving_car.png)
+ ![alt text](https://github.com/robotlabvn/self_driving_car/blob/master/traffic_sign_detection/Image/Simulation_1.png)
 4. Running the package
  ```
  cd ~/catkin_ws
